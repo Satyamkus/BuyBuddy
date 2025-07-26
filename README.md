@@ -18,10 +18,10 @@ BuyBuddy is a modern and responsive e-commerce web application built to provide 
 
 1. **Clone the repository**
 
-```bash
-git clone https://github.com/yourusername/buyBuddy.git
-cd buyBuddy
-```
+   ```bash
+   git clone https://github.com/yourusername/buyBuddy.git
+   cd buyBuddy
+   ```
 2. **Install dependencies**
    ```bash
    npm install
